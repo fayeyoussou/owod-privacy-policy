@@ -4,10 +4,13 @@
 
 Cette politique de confidentialité est établie dans le but d’informer les utilisateurs de l'application OWOD des modalités suivantes :
 
-### - Les données personnelles recueillies par l'application ;
-### - L’utilisation faite des données ;
-### - L’accès à ces données ;
-### - Les droits des utilisateurs de l'application.
+**Les données personnelles recueillies par l'application ;**
+
+**L’utilisation faite des données ;**
+
+**L’accès à ces données ;**
+
+**Les droits des utilisateurs de l'application.**
 
 ## II. Lois applicables
 
@@ -15,28 +18,37 @@ Cette politique de confidentialité est assujettie à la loi n°2008-12 du 25 ja
 
 Par conséquent, les données personnelles sont :
 
-### - Traitées de manière licite et transparente ;
-### - Collectées à des fins déterminées, explicites et légitimes, et ne seront pas traitées ultérieurement d’une manière incompatible avec ces fins ;
-### - Adéquates, pertinentes et limitées à ce qui est nécessaire dans le cadre des finalités pour lesquelles elles sont traitées ;
-### - Exactes, et si nécessaire tenues à jour. Toutes les mesures raisonnables seront prises pour corriger des données incorrectes au regard de la finalité pour laquelle celles-ci sont collectées ;
-### - Conservées sous une forme permettant l’identification des personnes concernées pour une durée suffisante pour leur traitement ;
-### - Traitées d’une façon qui garantit la sécurité de celles-ci, y compris en ce qui concerne le traitement non autorisé ou illicite, la perte ou la destruction de ces données, accidentelle ou volontaire.
+**Traitées de manière licite et transparente ;**
+
+**Collectées à des fins déterminées, explicites et légitimes, et ne seront pas traitées ultérieurement d’une manière incompatible avec ces fins ;**
+
+**Adéquates, pertinentes et limitées à ce qui est nécessaire dans le cadre des finalités pour lesquelles elles sont traitées ;**
+
+**Exactes, et si nécessaire tenues à jour. Toutes les mesures raisonnables seront prises pour corriger des données incorrectes au regard de la finalité pour laquelle celles-ci sont collectées ;**
+
+**Conservées sous une forme permettant l’identification des personnes concernées pour une durée suffisante pour leur traitement ;**
+
+**Traitées d’une façon qui garantit la sécurité de celles-ci, y compris en ce qui concerne le traitement non autorisé ou illicite, la perte ou la destruction de ces données, accidentelle ou volontaire.**
 
 ## III. Consentement
 
 En utilisant l'application OWOD, les utilisateurs consentent à :
 
-### - Toutes les conditions incluses dans la présente politique de confidentialité ;
-### - La collecte, l’utilisation et la conservation des données listées dans la présente politique de confidentialité.
+**Toutes les conditions incluses dans la présente politique de confidentialité ;**
+
+**La collecte, l’utilisation et la conservation des données listées dans la présente politique de confidentialité.**
 
 ## IV. Données personnelles collectées
 
 Lors de l’utilisation de l'application OWOD, différentes données personnelles au sujet des utilisateurs sont collectées de manière non automatique, notamment :
 
-### - Prénoms et noms ;
-### - Numéro de téléphone ;
-### - Adresse e-mail ;
-### - **Informations de santé** : données liées à votre grossesse, telles que le stade de la grossesse, les dates des rendez-vous médicaux, et les antécédents médicaux pertinents.
+**Prénoms et noms ;**
+
+**Numéro de téléphone ;**
+
+**Adresse e-mail ;**
+
+**Informations de santé** : données liées à votre grossesse, telles que le stade de la grossesse, les dates des rendez-vous médicaux, et les antécédents médicaux pertinents.
 
 Ces données sont recueillies par le biais des informations que les utilisateurs fournissent lorsqu’ils utilisent l'application.
 
@@ -50,10 +62,13 @@ Les données personnelles recueillies sur l'application OWOD ne sont collectées
 
 OWOD utilise vos données pour les besoins de l’exécution et de la gestion des services liés à l'application, notamment pour :
 
-### - Personnaliser les notifications de suivi de grossesse ;
-### - Fournir des conseils de santé adaptés à votre situation ;
-### - Vérifier la disponibilité des médicaments dans les pharmacies locales ;
-### - Offrir un suivi personnalisé en fonction de l'évolution de votre grossesse et des informations médicales fournies.
+**Personnaliser les notifications de suivi de grossesse ;**
+
+**Fournir des conseils de santé adaptés à votre situation ;**
+
+**Vérifier la disponibilité des médicaments dans les pharmacies locales ;**
+
+**Offrir un suivi personnalisé en fonction de l'évolution de votre grossesse et des informations médicales fournies.**
 
 ## VII. Durée de la conservation des données
 
