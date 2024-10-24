@@ -1,39 +1,78 @@
 # Politique de Confidentialité de l'Application OWOD
 
-## 1. Introduction
+## I. L’objectif de la politique de confidentialité
 
-Cette politique de confidentialité décrit comment l'application OWOD collecte, utilise et protège vos informations personnelles. OWOD est dédiée à la protection de la vie privée des femmes enceintes de la région de Kédougou et s'engage à respecter toutes les lois applicables en matière de protection des données.
+Cette politique de confidentialité est établie dans le but d’informer les utilisateurs de l'application OWOD des modalités suivantes :
 
-## 2. Collecte des Informations
+### - Les données personnelles recueillies par l'application ;
+### - L’utilisation faite des données ;
+### - L’accès à ces données ;
+### - Les droits des utilisateurs de l'application.
 
-OWOD peut collecter les informations suivantes :
-- Informations personnelles : nom, prénom, adresse e-mail, numéro de téléphone.
-- Informations de santé : données liées à votre grossesse pour personnaliser les notifications et les conseils.
-- Données de localisation : pour vérifier la disponibilité des médicaments dans les pharmacies locales.
+## II. Lois applicables
 
-## 3. Utilisation des Informations
+Cette politique de confidentialité est assujettie à la loi n°2008-12 du 25 janvier 2008 portant sur la Protection des données à caractère personnel.
 
-Les informations collectées sont utilisées pour :
-- Personnaliser les notifications de suivi de grossesse.
-- Fournir des conseils de santé adaptés à votre situation.
-- Vérifier la disponibilité des médicaments dans les pharmacies locales.
+Par conséquent, les données personnelles sont :
 
-## 4. Partage des Informations
+### - Traitées de manière licite et transparente ;
+### - Collectées à des fins déterminées, explicites et légitimes, et ne seront pas traitées ultérieurement d’une manière incompatible avec ces fins ;
+### - Adéquates, pertinentes et limitées à ce qui est nécessaire dans le cadre des finalités pour lesquelles elles sont traitées ;
+### - Exactes, et si nécessaire tenues à jour. Toutes les mesures raisonnables seront prises pour corriger des données incorrectes au regard de la finalité pour laquelle celles-ci sont collectées ;
+### - Conservées sous une forme permettant l’identification des personnes concernées pour une durée suffisante pour leur traitement ;
+### - Traitées d’une façon qui garantit la sécurité de celles-ci, y compris en ce qui concerne le traitement non autorisé ou illicite, la perte ou la destruction de ces données, accidentelle ou volontaire.
 
-OWOD ne partage pas vos informations personnelles avec des tiers, sauf si cela est nécessaire pour fournir les services de l'application ou si la loi l'exige.
+## III. Consentement
 
-## 5. Sécurité des Informations
+En utilisant l'application OWOD, les utilisateurs consentent à :
 
-OWOD met en œuvre des mesures de sécurité pour protéger vos informations personnelles contre l'accès non autorisé, la divulgation ou la destruction. Cependant, aucune méthode de transmission sur Internet ou de stockage électronique n'est totalement sécurisée, et nous ne pouvons garantir une sécurité absolue.
+### - Toutes les conditions incluses dans la présente politique de confidentialité ;
+### - La collecte, l’utilisation et la conservation des données listées dans la présente politique de confidentialité.
 
-## 6. Vos Droits
+## IV. Données personnelles collectées
 
-Vous avez le droit d'accéder à vos informations personnelles, de les corriger ou de les supprimer. Vous pouvez également retirer votre consentement à tout moment en contactant OWOD à l'adresse suivante : support_owod@gainde2000.sn.
+Lors de l’utilisation de l'application OWOD, différentes données personnelles au sujet des utilisateurs sont collectées de manière non automatique, notamment :
 
-## 7. Modifications de la Politique de Confidentialité
+### - Prénoms et noms ;
+### - Numéro de téléphone ;
+### - Adresse e-mail ;
+### - **Informations de santé** : données liées à votre grossesse, telles que le stade de la grossesse, les dates des rendez-vous médicaux, et les antécédents médicaux pertinents.
+
+Ces données sont recueillies par le biais des informations que les utilisateurs fournissent lorsqu’ils utilisent l'application.
+
+Aucune donnée supplémentaire n’est collectée sans que l’utilisateur n’en soit informé au préalable.
+
+## V. Traitement de ces données
+
+Les données personnelles recueillies sur l'application OWOD ne sont collectées et traitées que dans le cadre des fins précisées dans la présente politique de confidentialité. Les données personnelles que nous collectons ne seront pas utilisées à d’autres fins.
+
+## VI. La finalité de la collecte
+
+OWOD utilise vos données pour les besoins de l’exécution et de la gestion des services liés à l'application, notamment pour :
+
+### - Personnaliser les notifications de suivi de grossesse ;
+### - Fournir des conseils de santé adaptés à votre situation ;
+### - Vérifier la disponibilité des médicaments dans les pharmacies locales ;
+### - Offrir un suivi personnalisé en fonction de l'évolution de votre grossesse et des informations médicales fournies.
+
+## VII. Durée de la conservation des données
+
+Vos données seront conservées pour une période de cinq (5) ans à compter de la dernière date d’interaction avec nos services.
+
+## VIII. Confidentialité et sécurité des données
+
+Les mesures de sécurité nécessaires sont prévues pour garantir la confidentialité des données, et notamment éviter tout accès non autorisé.
+
+OWOD exige également de tout sous-traitant qu’il présente des garanties suffisantes pour assurer la sécurité et la confidentialité des données.
+
+## IX. Vos Droits
+
+Vous avez le droit d'accéder à vos informations personnelles, de les corriger ou de les supprimer. Vous pouvez également retirer votre consentement à tout moment en contactant OWOD à l'adresse suivante : [support_owod@gainde2000.sn](mailto:support_owod@gainde2000.sn).
+
+## X. Modifications de la Politique de Confidentialité
 
 OWOD se réserve le droit de modifier cette politique de confidentialité à tout moment. Les modifications seront affichées sur cette page, et votre utilisation continue de l'application après les modifications constitue votre acceptation de la nouvelle politique.
 
-## 8. Contact
+## XI. Contact
 
-Pour toute question concernant cette politique de confidentialité, vous pouvez nous contacter via l'application ou directement à l'adresse suivante : support_owod@gainde2000.sn.
+Pour toute question concernant cette politique de confidentialité, vous pouvez nous contacter via l'application ou directement à l'adresse suivante : [support_owod@gainde2000.sn](mailto:support_owod@gainde2000.sn).
